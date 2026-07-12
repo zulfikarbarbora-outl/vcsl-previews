@@ -1,0 +1,802 @@
+[
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ball Whistle/Main_BallWhistle_Long-001.wav",
+    "size": 361336
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ball Whistle/Main_BallWhistle_Short-001.wav",
+    "size": 192996
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_A#3_rr1_Main.wav",
+    "size": 80520
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_A#4_rr1_Main.wav",
+    "size": 96356
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_C4_rr1_Main.wav",
+    "size": 82104
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_C5_rr1_Main.wav",
+    "size": 94044
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_D4_rr1_Main.wav",
+    "size": 79108
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_D5_rr1_Main.wav",
+    "size": 90988
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_E4_rr1_Main.wav",
+    "size": 76016
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_E5_rr1_Main.wav",
+    "size": 83776
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_F#3_rr1_Main.wav",
+    "size": 76612
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_F#4_rr1_Main.wav",
+    "size": 81528
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_G#3_rr1_Main.wav",
+    "size": 81068
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Staccato/AltRecorder_Stac_G#4_rr1_Main.wav",
+    "size": 94520
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_A#3_rr1_Main.wav",
+    "size": 1933336
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_A#4_rr1_Main.wav",
+    "size": 2168388
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_C4_rr1_Main.wav",
+    "size": 1937020
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_C5_rr1_Main.wav",
+    "size": 2452944
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_D4_rr1_Main.wav",
+    "size": 2412116
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_D5_rr1_Main.wav",
+    "size": 2104308
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_E4_rr1_Main.wav",
+    "size": 2573704
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_E5_rr1_Main.wav",
+    "size": 1953236
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_F#4_rr1_Main.wav",
+    "size": 2189192
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_F3_rr1_Main.wav",
+    "size": 2059240
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_G#3_rr1_Main.wav",
+    "size": 1869112
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/SusVib/AltRecorder_SusVib_G#4_rr1_Main.wav",
+    "size": 2192436
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#3_rr1_Main.wav",
+    "size": 3003932
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#4_rr1_Main.wav",
+    "size": 2279160
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_C4_rr1_Main.wav",
+    "size": 1574224
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_C5_rr1_Main.wav",
+    "size": 2530036
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_D4_rr1_Main.wav",
+    "size": 1756616
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_D5_rr1_Main.wav",
+    "size": 2345620
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_E4_rr1_Main.wav",
+    "size": 2312324
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_E5_rr1_Main.wav",
+    "size": 2401644
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_F#4_rr1_Main.wav",
+    "size": 3121816
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_F3_rr1_Main.wav",
+    "size": 3254828
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#3_rr1_Main.wav",
+    "size": 2466568
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#4_rr1_Main.wav",
+    "size": 2394072
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_A#2_rr1_Main.wav",
+    "size": 90312
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_A2_rr1_Main.wav",
+    "size": 84784
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_A3_rr1_Main.wav",
+    "size": 91376
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_B3_rr1_Main.wav",
+    "size": 91772
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_C3_rr1_Main.wav",
+    "size": 79792
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_C4_rr1_Main.wav",
+    "size": 85028
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_D3_rr1_Main.wav",
+    "size": 88408
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_D4_rr1_Main.wav",
+    "size": 86292
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_E3_rr1_Main.wav",
+    "size": 90108
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_E4_rr1_Main.wav",
+    "size": 85828
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_F2_rr1_Main.wav",
+    "size": 86668
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_F3_rr1_Main.wav",
+    "size": 85528
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_F4_rr1_Main.wav",
+    "size": 83644
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_G2_rr1_Main.wav",
+    "size": 83396
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Staccato/BassRecorder_Stac_G3_rr1_Main.wav",
+    "size": 85072
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_A2_rr1_Main.wav",
+    "size": 809936
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_A3_rr1_Main.wav",
+    "size": 904364
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_B2_rr1_Main.wav",
+    "size": 779796
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_B3_rr1_Main.wav",
+    "size": 830016
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_C3_rr1_Main.wav",
+    "size": 849792
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_C4_rr1_Main.wav",
+    "size": 841652
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_D3_rr1_Main.wav",
+    "size": 1050200
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_D4_rr1_Main.wav",
+    "size": 847248
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_E3_rr1_Main.wav",
+    "size": 897304
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_E4_rr1_Main.wav",
+    "size": 825712
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_F2_rr1_Main.wav",
+    "size": 813816
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_F3_rr1_Main.wav",
+    "size": 890480
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_G2_rr1_Main.wav",
+    "size": 896160
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/SusVib/BassRecorder_SusVib_G3_rr1_Main.wav",
+    "size": 915988
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#2_rr1_Main.wav",
+    "size": 1115384
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#3_rr1_Main.wav",
+    "size": 1302064
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_C3_rr1_Main.wav",
+    "size": 1090592
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_C4_rr1_Main.wav",
+    "size": 1282728
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_D3_rr1_Main.wav",
+    "size": 1558252
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_D4_rr1_Main.wav",
+    "size": 1094336
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_E3_rr1_Main.wav",
+    "size": 1222760
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_E4_rr1_Main.wav",
+    "size": 1016344
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#2_rr1_Main.wav",
+    "size": 838364
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#3_rr1_Main.wav",
+    "size": 1431916
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#2_rr1_Main.wav",
+    "size": 697008
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#3_rr1_Main.wav",
+    "size": 1180704
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_A#4_rr1_Main.wav",
+    "size": 92616
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_A#5_rr1_Main.wav",
+    "size": 91860
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_C4_rr1_Main.wav",
+    "size": 98312
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_C5_rr1_Main.wav",
+    "size": 90592
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_D4_rr1_Main.wav",
+    "size": 80348
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_D5_rr1_Main.wav",
+    "size": 89284
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_E4_rr1_Main.wav",
+    "size": 82664
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_E5_rr1_Main.wav",
+    "size": 85044
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_F#4_rr1_Main.wav",
+    "size": 90224
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_F#5_rr1_Main.wav",
+    "size": 99280
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_G#4_rr1_Main.wav",
+    "size": 84660
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Staccato/SopRecorder_Stac_G5_rr1_Main.wav",
+    "size": 99836
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#4_rr1_Main.wav",
+    "size": 2148688
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#5_rr1_Main.wav",
+    "size": 2064280
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C4_rr1_Main.wav",
+    "size": 1992312
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C5_rr1_Main.wav",
+    "size": 2031908
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C6_rr1_Main.wav",
+    "size": 1979600
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D4_rr1_Main.wav",
+    "size": 2696024
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D5_rr1_Main.wav",
+    "size": 2393280
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav",
+    "size": 2616636
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E5_rr1_Main.wav",
+    "size": 2747436
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#4_rr1_Main.wav",
+    "size": 2254524
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#5_rr1_Main.wav",
+    "size": 2777292
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G#4_rr1_Main.wav",
+    "size": 1727644
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G5_rr1_Main.wav",
+    "size": 2469240
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_A#3_rr1_Main.wav",
+    "size": 99844
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_B4_rr1_Main.wav",
+    "size": 101976
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C3_rr1_Main.wav",
+    "size": 81944
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C4_rr1_Main.wav",
+    "size": 96960
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_D3_rr1_Main.wav",
+    "size": 87292
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_D4_rr1_Main.wav",
+    "size": 99796
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_E3_rr1_Main.wav",
+    "size": 90744
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_E4_rr1_Main.wav",
+    "size": 94708
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_F#3_rr1_Main.wav",
+    "size": 98460
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_F#4_rr1_Main.wav",
+    "size": 91912
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_G#3_rr1_Main.wav",
+    "size": 106332
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Staccato/TenRecorder_Stac_G#4_rr1_Main.wav",
+    "size": 99992
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_A3_rr1_Main.wav",
+    "size": 1131120
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_A4_rr1_Main.wav",
+    "size": 979848
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_B3_rr1_Main.wav",
+    "size": 1017168
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_B4_rr1_Main.wav",
+    "size": 1102564
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_C3_rr1_Main.wav",
+    "size": 1057852
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_C4_rr1_Main.wav",
+    "size": 1007440
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_D3_rr1_Main.wav",
+    "size": 1107256
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_D4_rr1_Main.wav",
+    "size": 1172404
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_E3_rr1_Main.wav",
+    "size": 1052596
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_E4_rr1_Main.wav",
+    "size": 1227336
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_F#3_rr1_Main.wav",
+    "size": 1005068
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_F#4_rr1_Main.wav",
+    "size": 1103504
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_G3_rr1_Main.wav",
+    "size": 853480
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_G4_rr1_Main.wav",
+    "size": 912676
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A#3_rr1_Main.wav",
+    "size": 1451604
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A4_rr1_Main.wav",
+    "size": 2184268
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C3_rr1_Main.wav",
+    "size": 1438852
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C4_rr1_Main.wav",
+    "size": 1511232
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C5_rr1_Main.wav",
+    "size": 1244376
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D3_rr1_Main.wav",
+    "size": 1637428
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D4_rr1_Main.wav",
+    "size": 1698564
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E3_rr1_Main.wav",
+    "size": 1768996
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E4_rr1_Main.wav",
+    "size": 1570944
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#3_rr1_Main.wav",
+    "size": 1396992
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#4_rr1_Main.wav",
+    "size": 1726344
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#3_rr1_Main.wav",
+    "size": 1476900
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#4_rr1_Main.wav",
+    "size": 1555388
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_A#5_staccato0.wav",
+    "size": 66752
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_A4_staccato0.wav",
+    "size": 80858
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_A5_staccato0.wav",
+    "size": 69764
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_B4_staccato0.wav",
+    "size": 87596
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_B5_staccato0.wav",
+    "size": 60422
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_C6_staccato0.wav",
+    "size": 79244
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_D#5_staccato0.wav",
+    "size": 79214
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_D5_staccato0.wav",
+    "size": 73364
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_E5_staccato0.wav",
+    "size": 71918
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_F#5_staccato0.wav",
+    "size": 69254
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_F5_staccato0.wav",
+    "size": 73124
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_G#5_staccato0.wav",
+    "size": 65612
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Staccato/ocarina_G5_staccato0.wav",
+    "size": 80702
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_A#4_sustain0.wav",
+    "size": 2926358
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_A#5_sustain0.wav",
+    "size": 5485988
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_A5_sustain0.wav",
+    "size": 4580906
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_B5_sustain0.wav",
+    "size": 4757480
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_C5_sustain0.wav",
+    "size": 2783168
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_D5_sustain0.wav",
+    "size": 3348362
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_E5_sustain0.wav",
+    "size": 5243438
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_F5_sustain0.wav",
+    "size": 3658730
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_G#5_sustain0.wav",
+    "size": 5014160
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Small/Sustain/ocarina_G5_sustain0.wav",
+    "size": 4947626
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_A#4_rel.wav",
+    "size": 246872
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_A3_rel.wav",
+    "size": 189824
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_A4_rel.wav",
+    "size": 205748
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_B3_rel.wav",
+    "size": 169796
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_C#4_rel.wav",
+    "size": 187190
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_C#5_rel.wav",
+    "size": 242342
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_C5_rel.wav",
+    "size": 239036
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_D4_rel.wav",
+    "size": 222716
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_E4_rel.wav",
+    "size": 226616
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_F#4_rel.wav",
+    "size": 237092
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/Sus/StdOcarina_Sus_G#4_rel.wav",
+    "size": 250454
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_A#4_rel.wav",
+    "size": 182630
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_A3_rel.wav",
+    "size": 182546
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_A4_rel.wav",
+    "size": 193994
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C#4_rel.wav",
+    "size": 163712
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C4_rel.wav",
+    "size": 206618
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C5_rel.wav",
+    "size": 158228
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_D#4_rel.wav",
+    "size": 186110
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_E4_rel.wav",
+    "size": 204716
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_F#4_rel.wav",
+    "size": 182444
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_G#4_rel.wav",
+    "size": 189068
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_A#4.wav",
+    "size": 1829108
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_A3.wav",
+    "size": 1730756
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_A4.wav",
+    "size": 1756556
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_B3.wav",
+    "size": 1519724
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_C#4.wav",
+    "size": 1734950
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_C#5.wav",
+    "size": 1520336
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_C5.wav",
+    "size": 1710374
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_D4.wav",
+    "size": 1674014
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_E4.wav",
+    "size": 1718132
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_F#4.wav",
+    "size": 1785296
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_G#4.wav",
+    "size": 1838264
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_A#4.wav",
+    "size": 1883036
+  },
+  {
+    "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_A3.wav",
+    "size": 2868500
+  }
+]
